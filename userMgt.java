@@ -1,5 +1,5 @@
 Landmark
-simon
+mercy
 dominion
 ayo
 obi
